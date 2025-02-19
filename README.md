@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SARVAGYACODES
+- 👋 Hi, I’m @SARVAGYA SINGH CHAUHAN
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java
 - 📫 How to reach me sarvagyas20@gmail.com
